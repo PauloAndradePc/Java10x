@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Estudo 2 - Pacotes e interfaces/Encontrando pacotes e CLASSPATH/CLASSPATH/CLASSPATH.iml" filepath="$PROJECT_DIR$/Estudo 2 - Pacotes e interfaces/Encontrando pacotes e CLASSPATH/CLASSPATH/CLASSPATH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudo 2 - Pacotes e interfaces/Pcotes e acesso a membros/Capitulo 8/Estrutura_Pacote.iml" filepath="$PROJECT_DIR$/Estudo 2 - Pacotes e interfaces/Pcotes e acesso a membros/Capitulo 8/Estrutura_Pacote.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Java10x.iml" filepath="$PROJECT_DIR$/Java10x.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Estudo 1 - Polimorfismo/Poli/Poli.iml" filepath="$PROJECT_DIR$/Estudo 1 - Polimorfismo/Poli/Poli.iml" />
+    </modules>
+  </component>
+</project>
